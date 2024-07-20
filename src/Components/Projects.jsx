@@ -57,7 +57,7 @@ const Project = () => {
   };
 
   return (
-    <section className="project-element flex items-center md:h-full flex-col md:flex-row min-h-screen text-center perspective-1000 ">
+    <section className="project-element flex items-center md:h-full flex-col md:flex-row min-h-screen text-center perspective-1000 " id="projects">
       <div className="project-heading shadow-yellow-500/40 shadow-lg bg-yellow-500 p-3 flex pt-4 pb-4 md:pt-40 md:pb-40 flex-none rounded-lg md:m-5 text-xl md:text-2xl item-center justify-center">
         <img src={projectIcon} alt="Project Icon" className="mr-2" />
         <h1 className="text-xl md:text-2xl">Projects</h1>
