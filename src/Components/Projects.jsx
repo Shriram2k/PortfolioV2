@@ -37,8 +37,8 @@ const projects = [
     title: "Weather Forecast",
     description:
       "Provides weather information and forecasts for different locations.",
-    link: "https://shriram2k.github.io/Weather-Forecast/",
-    code: "https://github.com/Shriram2k/Weather-Forecast",
+    link: "https://shriram2k.github.io/weather-forecast/",
+    code: "https://github.com/Shriram2k/weather-forecast",
   },
   {
     id: 6,
