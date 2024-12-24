@@ -13,10 +13,10 @@ const projects = [
   },
   {
     id: 2,
-    title: "Calendar App",
-    description: "An interactive calendar to view and manage events.",
-    link: "https://shriram2k.github.io/Calendar-App/",
-    code: "https://github.com/Shriram2k/Calendar-App",
+    title: "Renthouse.com",
+    description: "Property rental platform featuring property listings, booking management, and responsive design.",
+    link: "https://shriram2k.github.io/totality-frontend-challenge/#/",
+    code: "https://github.com/Shriram2k/totality-frontend-challenge",
   },
   {
     id: 3,
