@@ -15,8 +15,8 @@ const projects = [
     id: 2,
     title: "Renthouse.com",
     description: "Property rental platform featuring property listings, booking management, and responsive design.",
-    link: "https://shriram2k.github.io/totality-frontend-challenge/#/",
-    code: "https://github.com/Shriram2k/totality-frontend-challenge",
+    link: "https://shriram2k.github.io/renthouse/",
+    code: "https://github.com/Shriram2k/renthouse",
   },
   {
     id: 3,
